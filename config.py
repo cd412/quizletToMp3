@@ -5,8 +5,6 @@ base_url = 'https://api.quizlet.com/' + api_version
 
 # Quizlet set information
 setNumber = 415
-termLanguage = 'en'
-defLanguage = 'en'
 
 # Output information
 slow = False
